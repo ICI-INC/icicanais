@@ -49,8 +49,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brasil: notícias",Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 
-#EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="Midnight Secrets" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="star XXX",Midnight Secrets  
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-id="Teen.sp" tvg-name="Teen" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="star XXX",Girls + Studs
+http://cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4
+
 
 
 
