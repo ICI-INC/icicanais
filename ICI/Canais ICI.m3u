@@ -16,6 +16,9 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
 
+#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Clássicos" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Clássicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+
 #EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Action 2" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action 2
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 
