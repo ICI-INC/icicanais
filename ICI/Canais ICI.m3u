@@ -7,59 +7,8 @@ https://cdn-5.nxplay.com.br/VEJA_PLUS_FAST/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News HD op2
 https://sbtnews.maissbt.com/3.m3u8
 
-#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1948
-
 #EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/EPTV%20Ribeir%c3%a3o%20Preto.png" group-title="GLOBO SUDESTE",Globo EPTV Ribeirão Preto HD
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1928.m3u8
-
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ HD
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
-
-#EXTINF:-1 tvg-id="br#record-hd" tvg-name="Record SP Alternativo" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Record.png" group-title="RECORD",Record SP Alternativo
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1165
-
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN HD
-http://cord-cutter.net:8080/get.php?username=134152079&password=134152079&type=m3u_plus
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN Alternativo HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1294
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 6 HD
-http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus
-
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2108
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 3 HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2103
-
-#EXTINF:-1 tvg-id="br#telecine-premium-hd" tvg-name="Telecine Premium HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Premium.png" group-title="TELECINE",Telecine Premium HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2235
-
-#EXTINF:-1 tvg-id="br#telecine-pipoca-hd" tvg-name="Telecine Pipoca HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Pipoca.png" group-title="TELECINE",Telecine Pipoca HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2233
-
-#EXTINF:-1 tvg-id="br#telecine-action-hd" tvg-name="Telecine Action HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Action.png" group-title="TELECINE",Telecine Action HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2227
-
-#EXTINF:-1 tvg-id="br#telecine-touch-hd" tvg-name="Telecine Touch HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Touch.png" group-title="TELECINE",Telecine Touch HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2237
-
-#EXTINF:-1 tvg-id="br#telecine-fun-hd" tvg-name="Telecine Fun HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Fun.png" group-title="TELECINE",Telecine Fun HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2231
-
-#EXTINF:-1 tvg-id="br#telecine-cult-hd" tvg-name="Telecine Cult HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Telecine%20Cult.png" group-title="TELECINE",Telecine Cult HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2229
-
-#EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="TELECINE",Megapix HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2164
-
-#EXTINF:-1 tvg-id="Studio Universal.br" tvg-name=" Studio Universal HD" tvg-logo="https://images.seeklogo.com/logo-png/31/1/studio-universal-logo-png_seeklogo-314574.png" group-title="TELECINE", Studio Universal HD
-http://cord-cutter.net:8080/get.php?username=2145165799&password=eddelley31@yahoo.com&type=m3u_plus
-
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO.png" group-title="HBO ",HBO HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2144
 
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfe3ApDSwVx6sArdr2zASfa4X8huE_QNk23C_rYCJj9gRE4aRkynHjJzm7xC-QAr71mhS4yYaQduEtNABWLGzBs73Aq8d3WONQXoYiSLnmxI26Ftb7um7ybepgkhZp5NC2S3xljzPvLnY4FYjkl9FCjpEO-NBAGxpAnZb-apz_ql1ypLwWdJ3S6qGVKCg/s1600/RIT.webp" group-title="CANAIS | EVANGÉLICOS",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
