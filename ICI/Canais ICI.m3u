@@ -4,7 +4,7 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
 #EXTINF:-1 tvg-id="RED BULL BR" tvg-name="RED BULL BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e6/RedBullEnergyDrink.svg.png" group-title="Canais | NOTÍCIAS",RED BULL BR
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TV_Jovem_Pan_News_2022.svg" group-title="Canais | NOTÍCIAS",Jovem Pan News
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="Canais | NOTÍCIAS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 tvg-id="News 12 New York" tvg-name="News 12 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/The_updated_News12_logo_as_of_November_2019.png" group-title="Canais | NOTÍCIAS",News 12 New York
