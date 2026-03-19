@@ -25,8 +25,8 @@ http://cord-cutter.net:8080/get.php?username=134152079&password=134152079&type=m
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Alternativo HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN%20Brasil%20HD.png" group-title="ESPN",ESPN Alternativo HD
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1294
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 FHD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/1884
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 6 HD
+http://cord-cutter.net:8080/get.php?username=19174796&password=19174796&type=m3u_plus
 
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/ESPN.png" group-title="ESPN",ESPN 2 HD
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2108
