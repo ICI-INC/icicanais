@@ -55,8 +55,8 @@ http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2229
 #EXTINF:-1 tvg-id="br#megapix-hd" tvg-name="Megapix HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Megapix%20HD.png" group-title="TELECINE",Megapix HD
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2164
 
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/Universal%20TV.png" group-title="TELECINE",Universal TV HD
-http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2258
+#EXTINF:-1 tvg-id="Studio Universal.br" tvg-name=" Studio Universal HD" tvg-logo="https://images.seeklogo.com/logo-png/31/1/studio-universal-logo-png_seeklogo-314574.png" group-title="TELECINE", Studio Universal HD
+http://cord-cutter.net:8080/get.php?username=2145165799&password=eddelley31@yahoo.com&type=m3u_plus
 
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="http://channelart.8b90287dn2.online/images/logos/HBO.png" group-title="HBO ",HBO HD
 http://site.poupadefrutas.shop:80/q2Y7tqVAUv/dnuavyuZV5/2144
