@@ -52,6 +52,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="Videogame",Yeeaah | Brasil
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOc4SVF.png" group-title="Videogame",Videogame 39
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
+
 
 
 
