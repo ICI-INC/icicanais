@@ -13,35 +13,38 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="Novelissima BR" tvg-name="Novelissima BR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nYAE74nXl-oQtyefKStRaOlvgaf2tBSaT8UKQsKhvi-58JvaFxZ9FwKBwjCUfnqJo7fK7VoBP_luvt28Ucq-diFbfqMcm-4arrTDEJJuxCwbl8vc9UAs0v6QtAdSVx-659jbXTrNZuLF1LDcAUQTtu2J7MRV62OICOPsVAN-jwHxzetN7WtZsmaPOUA/s1600/novelissimaa.png" group-title="Canais | NOVELAS",Novelissima BR
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action
+#EXTINF:-1 tvg-id="Pluto TV Action" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Clássicos" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Clássicos
+#EXTINF:-1 tvg-id="Pluto TV Clássicos" tvg-name="Pluto TV Clássicos" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Action 2" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action 2
+#EXTINF:-1 tvg-id="Pluto TV Action 2" tvg-name="Pluto TV Action 2" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action 2
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Drama
+#EXTINF:-1 tvg-id="Pluto TV Drama" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Familia" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Familia
+#EXTINF:-1 tvg-id="Pluto TV Familia" tvg-name="Pluto TV Familia" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Familia
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Romance
+#EXTINF:-1 tvg-id="Pluto TV Romance" tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Sucessos" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Sucessos
+#EXTINF:-1 tvg-id="Pluto TV Sucessos" tvg-name="Pluto TV Sucessos" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Terror
+#EXTINF:-1 tvg-id="Pluto TV Terror" tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Cult" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Cult
+#EXTINF:-1 tvg-id="Pluto TV Cult" tvg-name="Pluto TV Cult" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Cult
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAction" tvg-name="Pluto TV Ficção" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Ficção
+#EXTINF:-1 tvg-id="Pluto TV Ficção" tvg-name="Pluto TV Ficção" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Ficção
 https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ Picks" tvg-name="Paramount+ Picks" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
 #EXTINF:-1 tvg-id="CANAL SÉRIES CLASSIC" tvg-name="CANAL SÉRIES CLASSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIwQBtmi6eePBMt3pBaIM-kJjNxkx-8JuVpcQpe65gCK24aACDt4qj5n4J4gC7jvxL5meUc0elzmc-2Xbe28I_EtbUqv4fkW84Ah6EiC6GuGRIAXKYSEvf68q7avs42zPjTvg6lF8pgobKqc8HBvKRM-K8Gll8QZpBBPHT9W20ighoz1pMEHZffxz5rc/s1600/seriesclassic.png" group-title="CANAIS | FILMES E SERIES",CANAL SÉRIES CLASSIC
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
