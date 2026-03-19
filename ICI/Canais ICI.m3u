@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RED BULL BR" tvg-name="RED BULL BR" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="Canais | NOTÍCIAS",RED BULL BR
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News" tvg-logo="" group-title="Canais | NOTÍCIAS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
@@ -26,7 +29,7 @@ https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Action 2" tvg-name="Pluto TV Action 2" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Action 2
-https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Drama" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/LogoPlutoTVAction.png" group-title="Pluto TV",Pluto TV Drama
 https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
