@@ -23,12 +23,12 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Action" tvg-name="Pluto TV Action" tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="Pluto TV",Pluto TV Action
-https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Clássicos" tvg-name="Pluto TV Clássicos" tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="Pluto TV",Pluto TV Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 
-#EXTINF:-1 tvg-id="Pluto TV Action 2" tvg-name="Pluto TV Action 2" tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="Pluto TV",Pluto TV Action 2
+#EXTINF:-1 tvg-id="Pluto TV Anime" tvg-name="Pluto TV Anime" tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="Pluto TV",Pluto TV Anime
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 
 #EXTINF:-1 tvg-id="Pluto TV Drama" tvg-name="Pluto TV Drama" tvg-logo="https://images.seeklogo.com/logo-png/52/1/pluto-tv-logo-png_seeklogo-520780.png" group-title="Pluto TV",Pluto TV Drama
