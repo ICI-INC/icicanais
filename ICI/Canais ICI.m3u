@@ -18,9 +18,6 @@ https://cdn-5.nxplay.com.br/VEJA_PLUS_FAST/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="469" tvg-name="SBT News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="CANAIS | NOTÍCIAS",SBT News HD op2
 https://sbtnews.maissbt.com/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/CPN5mJ" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD 
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
 #EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfe3ApDSwVx6sArdr2zASfa4X8huE_QNk23C_rYCJj9gRE4aRkynHjJzm7xC-QAr71mhS4yYaQduEtNABWLGzBs73Aq8d3WONQXoYiSLnmxI26Ftb7um7ybepgkhZp5NC2S3xljzPvLnY4FYjkl9FCjpEO-NBAGxpAnZb-apz_ql1ypLwWdJ3S6qGVKCg/s1600/RIT.webp" group-title="CANAIS | EVANGÉLICOS",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 
