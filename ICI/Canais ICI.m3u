@@ -132,6 +132,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=39
 #EXTINF:-44 tvg-logo="https://i.imgur.com/wK9I1o5.png" group-title="Videogame",Tankee 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=38
 
+# EXTINF : -45   tvg-logo = " https://goo.gl/IQS0pJ "  group-title = " Notícias " , GLOBO NEWS
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+
 
 
 
